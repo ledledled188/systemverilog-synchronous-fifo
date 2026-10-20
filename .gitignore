@@ -1,0 +1,11 @@
+# Simulation binaries and waveforms
+*.vvp
+*.vcd
+*.out
+*.log
+
+# Editor & OS artifacts
+.vscode/
+.idea/
+Thumbs.db
+[Dd]esktop.ini
